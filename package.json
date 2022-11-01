@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-practico-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KellbisJ/javascript-api-rest-practico.git"
+  },
+  "author": "Kellbis Salazar <holasoykellbis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KellbisJ/javascript-api-rest-practico/issues"
+  },
+  "homepage": "https://github.com/KellbisJ/javascript-api-rest-practico#readme"
+}
