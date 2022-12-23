@@ -1,2 +1,5 @@
-# javascript-api-rest-practico
-Curso Practico de Consumo de API REST Platzi
+# api-rest-js
+
+Javascript consumo de api-rest
+
+["platzi"-"juandc"].
